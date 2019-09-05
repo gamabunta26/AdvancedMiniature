@@ -14,5 +14,7 @@ index.php : category managed with sub directory
 
 
 filename format and description : print the first part before the first dot
+
 filename : picture1.jpg -> print picture1
+
 filename : "long description picture.picture1.jpg" -> print long description picture
